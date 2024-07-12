@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879630527340",
+    "project_id": "ttsapp-a6b11",
+    "storage_bucket": "ttsapp-a6b11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879630527340:android:af7ec27b11e758e008e149",
+        "android_client_info": {
+          "package_name": "br.com.dtec.loja.minimalstore2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCztC9HhfylixUUoH6C6yyrqU7_0E4H1MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
