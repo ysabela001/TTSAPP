@@ -33,7 +33,7 @@ O TTSAPP foi desenvolvido para **demonstrar o potencial do Flutter na construç�
 ## 🧩 Estrutura e Arquitetura
 
 O projeto segue a arquitetura padrão do Flutter para aplicações mobile, mantendo **separação de responsabilidades** e **organização de pastas clara**:
-
+```
 /
 ├── lib/
 │   ├── screens/        # Telas do aplicativo (home, produto, carrinho, etc.)
@@ -44,7 +44,7 @@ O projeto segue a arquitetura padrão do Flutter para aplicações mobile, mante
 ├── assets/             # Imagens, ícones e recursos visuais
 └── pubspec.yaml        # Dependências e configurações do projeto
 ---
-
+```
 💼 Funcionalidades do E-commerce
 
 O projeto segue o modelo de um aplicativo completo de e-commerce, incluindo as seguintes funcionalidades:
