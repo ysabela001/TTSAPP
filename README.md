@@ -43,8 +43,8 @@ O projeto segue a arquitetura padrão do Flutter para aplicações mobile, mante
 │   └── main.dart       # Ponto de entrada da aplicação
 ├── assets/             # Imagens, ícones e recursos visuais
 └── pubspec.yaml        # Dependências e configurações do projeto
----
 ```
+---
 💼 Funcionalidades do E-commerce
 
 O projeto segue o modelo de um aplicativo completo de e-commerce, incluindo as seguintes funcionalidades:
