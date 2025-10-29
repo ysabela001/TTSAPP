@@ -5,7 +5,7 @@ O projeto tem como objetivo oferecer uma base sólida para a criação de lojas 
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -19,7 +19,7 @@ O projeto tem como objetivo oferecer uma base sólida para a criação de lojas 
 
 ---
 
-## 🎯 Objetivo do Projeto
+##📍Objetivo do Projeto
 
 O TTSAPP foi desenvolvido para **demonstrar o potencial do Flutter na construção de aplicativos móveis de e-commerce**, com foco em:
 
@@ -30,7 +30,7 @@ O TTSAPP foi desenvolvido para **demonstrar o potencial do Flutter na construç�
 
 ---
 
-## 🧩 Estrutura e Arquitetura
+## 🗂️ Estrutura e Arquitetura
 
 O projeto segue a arquitetura padrão do Flutter para aplicações mobile, mantendo **separação de responsabilidades** e **organização de pastas clara**:
 ```
@@ -97,15 +97,23 @@ Durante o desenvolvimento do projeto, foram abordados e aplicados conceitos esse
 
 Certifique-se de ter o **Flutter SDK** instalado e configurado corretamente.
 
-# Clone o repositório
+Clone o repositório
+````
 git clone https://github.com/ysabela001/TTSAPP.git
+````
 
-# Acesse a pasta do projeto
+Acesse a pasta do projeto
+````
 cd TTSAPP
+````
 
-# Instale as dependências
+Instale as dependências
+````
 flutter pub get
+````
 
-# Execute o app
+Execute o app
+````
 flutter run
+````
 
