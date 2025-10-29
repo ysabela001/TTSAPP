@@ -19,7 +19,7 @@ O projeto tem como objetivo oferecer uma base sólida para a criação de lojas 
 
 ---
 
-##📍Objetivo do Projeto
+📍Objetivo do Projeto
 
 O TTSAPP foi desenvolvido para **demonstrar o potencial do Flutter na construção de aplicativos móveis de e-commerce**, com foco em:
 
@@ -30,7 +30,7 @@ O TTSAPP foi desenvolvido para **demonstrar o potencial do Flutter na construç�
 
 ---
 
-## 🗂️ Estrutura e Arquitetura
+🗂️ Estrutura e Arquitetura
 
 O projeto segue a arquitetura padrão do Flutter para aplicações mobile, mantendo **separação de responsabilidades** e **organização de pastas clara**:
 ```
